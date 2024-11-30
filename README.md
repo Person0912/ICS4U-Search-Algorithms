@@ -1,3 +1,4 @@
+# Weewoo Random Test
 # Analyzing Algorithm Performance: A Practical Test
 
 In this activity, we'll look at the performance of linear search versus binary search algorithms by comparing execution or run time.
